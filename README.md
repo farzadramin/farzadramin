@@ -5,17 +5,19 @@ VOLLEYBALL 4 LIFE
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Website</title>
+    FZD Volleyball
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
-        <h1>Welcome to My Website</h1>
+        <h1>Welcome to FZD Volleyball</h1>
         <nav>
             <ul>
-                <li><a href="#about">About</a></li>
-                <li><a href="#blog">Blog</a></li>
-                <li><a href="#contact">Contact</a></li>
+                <li><a href="#Setting in Volleyball">About</a></li>
+                <li><a href="#Receving in Volleyball">Blog</a></li>
+                <li><a href="#Hitting in Volleyball">Contact</a></li>
+                <li><a href="#Blocking in Volleyball">Contact</a></li>
+                <li><a href="#Serving in Volleyball">Contact</a></li>
             </ul>
         </nav>
     </header>
