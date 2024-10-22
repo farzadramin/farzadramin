@@ -13,11 +13,11 @@ VOLLEYBALL 4 LIFE
         <h1>Welcome to FZD Volleyball</h1>
         <nav>
             <ul>
-                <li><a href="#Setting in Volleyball">About</a></li>
-                <li><a href="#Receving in Volleyball">Blog</a></li>
-                <li><a href="#Hitting in Volleyball">Contact</a></li>
-                <li><a href="#Blocking in Volleyball">Contact</a></li>
-                <li><a href="#Serving in Volleyball">Contact</a></li>
+                <li><a href="#Setting in Volleyball">Setting in Volleyball</a></li>
+                <li><a href="#Receving in Volleyball">Receving in Volleyball</a></li>
+                <li><a href="#Hitting in Volleyball">Hitting in Volleyball</a></li>
+                <li><a href="#Blocking in Volleyball">Blocking in Volleyball</a></li>
+                <li><a href="#Serving in Volleyball">Serving in Volleyball</a></li>
             </ul>
         </nav>
     </header>
